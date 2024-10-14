@@ -1,2 +1,2 @@
 # desafio-logica-xp
-Primeiro projeto criado através das aula do desafio da Dio, introdução a lógica de programação com a GFT, através da semana GFT Start #6 - Lógica de Programação. 
+Primeiro projeto criado através das aula do desafio da Dio, eu já tinha experiência em lógica da programaçao e Javascript através do meu curso técnico e agora pela faculdade de ADS. 
